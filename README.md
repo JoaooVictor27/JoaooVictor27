@@ -78,6 +78,12 @@
 <br/>
 <br/>
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="[https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW1ocHZwOTExbXdqZnY0NzBuZm9xY290NzE4aGd1NXZoaTJvamQ4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XBWNCOq1ihuhlOxXGt/giphy.gif)" alt="Imagem">
+</p>
+
+
 ### 📊 Estatísticas
 
 <p>
