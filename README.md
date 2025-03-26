@@ -75,9 +75,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hyj7xx5757t5wiex2wgbwop7au&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
 <br/>
 <br/>
 
@@ -98,6 +95,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hyj7xx5757t5wiex2wgbwop7au&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
