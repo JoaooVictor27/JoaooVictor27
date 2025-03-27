@@ -78,13 +78,6 @@
 <br/>
 <br/>
 
-
-
-![Image](https://github.com/user-attachments/assets/d710a4fb-cf56-44fa-8e2e-19bb0921a084)
-
-
-
-
 ### 📊 Estatísticas
 
 <p>
